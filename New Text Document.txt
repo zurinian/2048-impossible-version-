@@ -1,0 +1,32 @@
+
+//let interval = setInterval(() => {
+    // for (let i in map) {
+    //     for (let i1 in map[i]) {
+    //         if (map[i][i1] !== 0) {
+    //             $(`c[order=${grid * i + i1}]`).addClass("notEmpty")
+    //             .text(map[i][i1]).css("border", `5px solid rgb(
+    //                 ${randColor(map[i][i1], colorRand[0])}, 
+    //                 ${randColor(map[i][i1], colorRand[1])}, 
+    //                 ${randColor(map[i][i1], colorRand[2])})`)
+    //                 .css("color", `rgb(
+    //                     ${randColor(map[i][i1], colorRand[0])}, 
+    //                     ${randColor(map[i][i1], colorRand[1])}, 
+    //                     ${randColor(map[i][i1], colorRand[2])})`)
+    //         } else {
+    //             $(`c[order=${grid * i + i1}]`).removeClass("notEmpty")
+    //             .text(map[i][i1]).css("border", "0")
+    //                 .css("color", "0").text(" ")
+    //         }
+    //     }
+    // }
+//})
+
+// $(".notEmpty")
+//     .css("border", `5px solid rgb(
+//         ${randColor(map[i][i1], colorRand[0])}, 
+//         ${randColor(map[i][i1], colorRand[1])}, 
+//         ${randColor(map[i][i1], colorRand[2])})`)
+//             .css("color", `rgb(
+//                 ${randColor(map[i][i1], colorRand[0])}, 
+//                 ${randColor(map[i][i1], colorRand[1])}, 
+//                 ${randColor(map[i][i1], colorRand[2])})`)
